@@ -1,6 +1,6 @@
 # Ashok Manikanta
 
-**Systems Programming • Game Development • CS Student**
+**UX Designer • Game Development • CS Student**
 
 **Skills**
 
