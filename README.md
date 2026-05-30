@@ -2,10 +2,22 @@
 
 > UX Designer • Game Developer • CS Student
 
-### <img src="https://cdn.discordapp.com/emojis/1510277602986950656.webp?size=64&animated=true" width="22"> Skills
+### <img src="https://cdn.discordapp.com/emojis/1510277602986950656.webp?size=64&animated=true" width="22"> Programming & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,godot,blender,unrealengine&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,mysql,godot,unrealengine,blender,cmake&theme=dark&perline=8" />
+</p>
+
+### <img src="https://cdn.discordapp.com/emojis/1510277602986950656.webp?size=64&animated=true" width="22"> Operating Systems & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,windows,apple,raspberrypi&theme=dark" />
+</p>
+
+### <img src="https://cdn.discordapp.com/emojis/1510277602986950656.webp?size=64&animated=true" width="22"> Productivity & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,aws,notion,github&theme=dark" />
 </p>
 
 ### <img src="https://cdn.discordapp.com/emojis/1510277602986950656.webp?size=64&animated=true" width="22"> Connect
