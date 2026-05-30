@@ -1,11 +1,11 @@
 # Ashok Manikanta <img src="https://cdn.discordapp.com/emojis/1510285221600170207.webp?size=64" width="28">
 
-> UX Designer • Game Developer • CS Student
+> Game Developer • UI/UX Designer • Computer Science Student <img src="https://cdn.discordapp.com/emojis/1476282990861488419.webp?size=64" width="18">
 
 ### <img src="https://cdn.discordapp.com/emojis/1510277602986950656.webp?size=64&animated=true" width="22"> Programming & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,mysql,godot,unrealengine,blender,cmake&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,godot,unrealengine,blender,mysql,cmake&theme=dark" />
 </p>
 
 ### <img src="https://cdn.discordapp.com/emojis/1510277602986950656.webp?size=64&animated=true" width="22"> Operating Systems & Platforms
