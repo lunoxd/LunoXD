@@ -1,19 +1,26 @@
 # Ashok Manikanta
 
-**UX Designer • Game Development • CS Student**
+> UX Designer • Game Developer • CS Student
 
-**Skills**
+### <img src="https://cdn.discordapp.com/emojis/1510277602986950656.webp?size=64&animated=true" width="22"> Skills
 
-![skills](https://skillicons.dev/icons?i=cpp,godot,blender,unrealengine)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,godot,blender,unrealengine&theme=dark" />
+</p>
 
-**Tools**
+### <img src="https://cdn.discordapp.com/emojis/1510277602986950656.webp?size=64&animated=true" width="22"> Connect
 
-![tools](https://skillicons.dev/icons?i=vscode,vim,git)
-
-**Operating Systems I Use**
-
-![os](https://skillicons.dev/icons?i=apple,windows,linux)
-
-**Social**
-
-![social](https://skillicons.dev/icons?i=github,discord,instagram,gmail)
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+  <a href="https://discord.com/users/YOUR_ID">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+  </a>
+  <a href="https://instagram.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</p>
