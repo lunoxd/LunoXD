@@ -1,4 +1,4 @@
-# Ashok Manikanta
+# Ashok Manikanta <img src="https://cdn.discordapp.com/emojis/1510285221600170207.webp?size=64" width="28">
 
 > UX Designer • Game Developer • CS Student
 
