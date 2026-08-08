@@ -23,10 +23,10 @@
 ### <img src="https://cdn.discordapp.com/emojis/1510277602986950656.webp?size=64&animated=true" width="22"> Connect
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/lunoxd">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" />
   </a>
-  <a href="https://instagram.com/ashokxd2">
+  <a href="https://instagram.com/godofwaffle">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
   <a href="mailto:ashokvibes@proton.me">
