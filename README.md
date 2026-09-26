@@ -1,7 +1,4 @@
 # Ashok Manikanta <img src="https://cdn.discordapp.com/emojis/1510285221600170207.webp?size=64" width="28">
-  <a href="https://waffy.art">
-    <img src="https://skillicons.dev/icons?i=artstation&theme=dark" />
-  </a>
 
 > Game Developer • UI/UX Designer • Computer Science Student <img src="https://cdn.discordapp.com/emojis/1476282990861488419.webp?size=64" width="18">
 
@@ -31,6 +28,9 @@
   </a>
   <a href="https://instagram.com/godofwaffle">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+  <a href="https://waffy.art">
+    <img src="https://skillicons.dev/icons?i=artstation&theme=dark" />
   </a>
   <a href="mailto:ashokvibes@proton.me">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
